@@ -6,5 +6,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasil&langs_count=5" />
 </a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikolasil)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="hhttps://github-readme-streak-stats.herokuapp.com/?user=nikolasil)](https://git.io/streak-stats" />
+<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikolasil)](https://git.io/streak-stats) -->
+</a>
