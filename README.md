@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Docker & Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikolasil?tab=repositories](https://github.com/nikolasil?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://iliopoulosnikolas.eu/#portfolio](https://iliopoulosnikolas.eu/#portfolio)
 
 - 📫 How to reach me **iliopoulos.info@gmail.com**
 
