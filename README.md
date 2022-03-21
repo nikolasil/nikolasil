@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iliopoulos Nikolas</h1>
 <h3 align="center">Computer Scientist</h3>
 
-- 🌱 I’m currently learning **React.js , Vue.js**
+- 🌱 I’m currently learning **Spring Boot , Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikolasil?tab=repositories](https://github.com/nikolasil?tab=repositories)
 
