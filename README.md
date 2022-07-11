@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Iliopoulos Nikolas</h1>
 <h3 align="center">Computer Scientist</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Docker & Kubernetes**
+- 🌱 I’m currently learning **Spring Boot, Docker, Keycloak, Rundeck**
 
 - 👨‍💻 All of my projects are available at [https://iliopoulosnikolas.eu/#portfolio](https://iliopoulosnikolas.eu/#portfolio)
 
