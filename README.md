@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Docker, Keycloak, Rundeck**
 
-<!-- - 👨‍💻 All of my projects are available at [https://iliopoulosnikolas.eu/#portfolio](https://iliopoulosnikolas.eu/#portfolio) -->
+👨‍💻 All of my projects are available at [https://iliopoulos-nikolas.xyz/#portfolio](https://iliopoulos-nikolas.xyz/#portfolio)
 
 - 📫 How to reach me **iliopoulos.info@gmail.com**
 
