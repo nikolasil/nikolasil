@@ -1,10 +1,8 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hi 👋, I'm Iliopoulos Nikolas</h1>
-<h3 align="center">Computer Scientist</h3>
+<h1 align="center">Hi 👋, I'm Eliopoulos Nikolas</h1>
+<h3 align="center">Computer Scientist | Software Engineer</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Docker, Keycloak, Rundeck**
-
-- 👨‍💻 All of my projects are available at [https://iliopoulos-nikolas.xyz/#portfolio](https://iliopoulos-nikolas.xyz/#portfolio)
+- 👨‍💻 All of my projects and more info about me are available at [https://iliopoulos.work](https://iliopoulos.work)
 
 - 📫 How to reach me **iliopoulos.info@gmail.com**
 
