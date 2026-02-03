@@ -35,14 +35,6 @@ I am a **Computer Scientist and Software Engineer** passionate about building sc
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikolasil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nikolas's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasil&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 <p align="left">
   <a href="https://stackoverflow.com/users/13285897" target="blank"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" height="25" /></a>
